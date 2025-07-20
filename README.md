@@ -14,14 +14,13 @@ This is the backend service for a smart **medication dispenser system** built us
 ---
 
 ## 📁 Folder Structure
-
-medication-dispenser/
-├── db.js # PostgreSQL connection setup
-├── server.js # Express app with API routes
-├── package.json
-├── .env # DB credentials (not uploaded to GitHub)
-├── .gitignore
-└── README.md
+      medication-dispenser/
+      ├── db.js # PostgreSQL connection setup
+      ├── server.js # Express app with API routes
+      ├── package.json
+      ├── .env # DB credentials (not uploaded to GitHub)
+      ├── .gitignore
+      └── README.md
 
 
 ---
